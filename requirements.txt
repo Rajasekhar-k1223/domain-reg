@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+flask_login
+ldap3
+dnspython
+cloudflare
+jwt
+flask_cors
+PyJWT
+# py3dns
+# python-dns
